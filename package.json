@@ -1,7 +1,7 @@
 {
   "name": "optic",
   "main": "./lib/optic",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A lightweight plugin that allows you to use Atom & Optic",
   "keywords": [],
   "activationCommands": {},
