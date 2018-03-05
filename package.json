@@ -11,6 +11,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "optic-editor-sdk": "file:../../../knack/agent-sdk/optic-editor-sdk-0.1.0.tgz"
+    "optic-editor-sdk": "^0.1.1"
   }
 }
